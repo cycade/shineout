@@ -1,6 +1,6 @@
 {
   "extends": [
-    "stylelint-config-idiomatic-order",
+    "styt-config-idiomatic-order",
     "./node_modules/prettier-stylelint/config.js"
   ],
   "rules": {
